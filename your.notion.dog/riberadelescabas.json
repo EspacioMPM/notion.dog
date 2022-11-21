@@ -1,0 +1,14 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"b335ea9acc934995ad9832dd10710f71",
+        "municipios": "753921c66f7349eab8f44ebbc33f58f8",
+        "actualidad": "b633b9cf68d440bb98456d2a53455a36",
+        "fiestas": "ca1219cae5c64232bae2c8b4efa55f52",
+    },
+  
+    "PAGE_TITLE" : "Asociación Cultural de la Ribera del Escabas", 
+    "PAGE_DESCRIPTION" : "Página web con información de la comarca del Escabas, en la Serranía de Cuenca",
+    
+    "GOOGLE_FONT" : "Noto Sans",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}
